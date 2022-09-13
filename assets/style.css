@@ -1,6 +1,5 @@
-/* Header */
 header {
-    background-color: #000120
+    background-color: #B4654A
 }
 div.title {
     
@@ -11,12 +10,10 @@ div.title h1 {
     padding: 10px;
 }
 
-/* Main content */
 main.dashboard {
-    background-color: rgb(247, 247, 247);
+    background-color: #77B28C;
 }
 
-/* Left Sidebar */
 div.recent-searches h2 {
     font-size: 1.2rem;
 }
@@ -30,14 +27,13 @@ div.city {
 }
 
 div.cityName {
-    background-color: white;
+    background-color: #C2C5BB;
     color: black;   
 }
-/* Weather Data */
 
 div.currentWeather {
     margin-bottom: 20px;
-    background-color: white;
+    background-color: #C2C5BB;
 }
 
 div.currentWeather h2,
@@ -47,7 +43,7 @@ div.currentWeather h3 {
 }
 
 span#uv-index {
-    color: white;
+    color: #C2C5BB;
 }
 
 div.fiveDay h2 {
@@ -60,11 +56,11 @@ div.fiveDay p {
 
 div.fiveDay p.card-title {
     font-weight: bold;
-    color: white;
+    color: #C2C5BB;
 }
 
 .card {
-    background-color: #0276fd;
+    background-color: #157A6E;
 }
 
 .text-muted {
